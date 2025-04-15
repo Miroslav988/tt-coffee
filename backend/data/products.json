@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "status": "Доступно",
+    "date_created": "2024-04-01T10:00:00Z",
+    "name": "Espresso Coffee Beans",
+    "price": 15.99,
+    "category": "Coffee Beans"
+  },
+  {
+    "id": 2,
+    "status": "Доступно",
+    "date_created": "2024-04-02T11:30:00Z",
+    "name": "French Press",
+    "price": 25.5,
+    "category": "Coffee Equipment"
+  },
+  {
+    "id": 3,
+    "status": "Нет в наличии",
+    "date_created": "2024-04-03T09:15:00Z",
+    "name": "Coffee Grinder",
+    "price": 45.0,
+    "category": "Coffee Equipment"
+  },
+  {
+    "id": 4,
+    "status": "Доступно",
+    "date_created": "2024-04-04T14:20:00Z",
+    "name": "Cappuccino Cups Set",
+    "price": 12.0,
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "status": "Доступно",
+    "date_created": "2024-04-05T08:45:00Z",
+    "name": "Organic Arabica Beans",
+    "price": 18.75,
+    "category": "Coffee Beans"
+  },
+  {
+    "id": 6,
+    "status": "Доступно",
+    "date_created": "2024-04-06T13:00:00Z",
+    "name": "Milk Frother",
+    "price": 22.0,
+    "category": "Coffee Equipment"
+  },
+  {
+    "id": 7,
+    "status": "Нет в наличии",
+    "date_created": "2024-04-07T15:30:00Z",
+    "name": "Vintage Coffee Scoop",
+    "price": 8.5,
+    "category": "Accessories"
+  },
+  {
+    "id": 8,
+    "status": "Доступно",
+    "date_created": "2024-04-08T12:10:00Z",
+    "name": "Cold Brew Maker",
+    "price": 35.0,
+    "category": "Coffee Equipment"
+  },
+  {
+    "id": 9,
+    "status": "Доступно",
+    "date_created": "2024-04-09T10:50:00Z",
+    "name": "Espresso Machine Cleaner",
+    "price": 9.99,
+    "category": "Accessories"
+  },
+  {
+    "id": 10,
+    "status": "Доступно",
+    "date_created": "2024-04-10T11:00:00Z",
+    "name": "Reusable Coffee Filter",
+    "price": 7.25,
+    "category": "Accessories"
+  }
+]
